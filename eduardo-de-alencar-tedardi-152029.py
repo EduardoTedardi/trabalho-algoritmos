@@ -71,7 +71,7 @@ def main():
   else:
      print()
      print('Tchau!')
- 
+
 #AÇÃO 1
 def le_arquivo(nome: str) -> list[list[str]]:
  '''
@@ -181,7 +181,7 @@ def desfazer(user1: str , user2: str)-> None:
            lista_user[x].aura -= 150
            for y in range(len(lista_user[x].amigos)):
                if lista_user[x].amigos[y] == user1:
-                   lista_user[x].amigos.pop(y)               
+                   lista_user[x].amigos.pop(y)
 
 
 
