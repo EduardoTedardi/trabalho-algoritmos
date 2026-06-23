@@ -161,11 +161,6 @@ def criar_amizade(user1: str , user2: str)-> None:
 função erro que verifica se os usuários são amigos
 '''
 
-
-
-
-
-
 def desfazer(user1: str , user2: str)-> None:
    '''
    Retira o user1 da lista de amigos do user2 e o user 2 da lista de amigos do user1. Além disso retira 150 pontos de aura de cada usuário
@@ -194,6 +189,7 @@ def desfazer(user1: str , user2: str)-> None:
 #AÇÃO 5
 '''
 função erro que verifica se os usuários são amigos
+
 '''
 
 
